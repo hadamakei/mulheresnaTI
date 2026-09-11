@@ -1,6 +1,6 @@
 # 💻 Mulheres na TI ♀️
 
-## 📌 Sobre o projeto
+
 
 O **Mulheres na TI** é um site desenvolvido com o objetivo de incentivar e apoiar a participação de mulheres no mercado de Tecnologia da Informação.
 
@@ -10,7 +10,7 @@ A proposta é reunir informações que possam ajudar mulheres que desejam conhec
 
 Este projeto foi desenvolvido para a disciplina de **Atividade Extensionista II**, do curso de **Análise e Desenvolvimento de Sistemas da UNINTER**.
 
----
+
 
 ## 🎯 Objetivos
 
@@ -22,15 +22,17 @@ Este projeto foi desenvolvido para a disciplina de **Atividade Extensionista II*
 - ⭐ Mostrar mulheres que são referências na área 
 - ♀️ Contribuir para a promoção da diversidade e inclusão no setor de tecnologia. 
 
----
+
 ## 🖥️ Preview
 
-![Preview do site Mulheres na TI](preview.png)
+<p align="center">
+  <img src="preview.png" alt="Preview do site Mulheres na TI" width="500">
+</p>
 
 
 
 
----
+
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -44,7 +46,7 @@ Também foram utilizados:
 - Git
 - GitHub
 
----
+
 
 ## 📁 Estrutura do projeto
 
@@ -63,5 +65,6 @@ mulheres-na-ti-site/
 │
 ├── linkedin.png
 ├── github.png
+├── preview.png
 │
 └── README.md
